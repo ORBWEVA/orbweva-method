@@ -1,0 +1,12 @@
+{
+  "name": "@orbweva/orbweva-method",
+  "version": "1.0.0",
+  "description": "CORE Method skill — strategic glue connecting the ORBWEVA founder toolkit to CORE/ARC/AER/Grow",
+  "keywords": ["claude-code", "skills", "orbweva", "core-method", "startup", "strategy", "automation"],
+  "author": "ORBWEVA",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ORBWEVA/orbweva-method"
+  }
+}

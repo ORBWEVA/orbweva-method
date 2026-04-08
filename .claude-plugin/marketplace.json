@@ -2,6 +2,6 @@
   "name": "orbweva-method",
   "owner": {"name": "ORBWEVA"},
   "plugins": [
-    {"name":"core","source":{"source":"github","repo":"ORBWEVA/orbweva-method"},"description":"ORBWEVA CORE Method skill — the strategic glue connecting founder skills to a structured business methodology. Use when user needs to run a CORE Assessment, convert skill outputs into ARC knowledge ","version":"1.0.0","author":{"name":"ORBWEVA"}}
+    {"name":"core","source":{"source":"url","url":"https://github.com/ORBWEVA/orbweva-method.git"},"description":"ORBWEVA CORE Method skill — the strategic glue connecting founder skills to a structured business methodology. Use when user needs to run a CORE Assessment, convert skill outputs into ARC knowledge ","version":"1.0.0","author":{"name":"ORBWEVA"}}
   ]
 }
